@@ -1,6 +1,6 @@
-# Xteps2 examples
+# [Xteps2](https://github.com/evpl/xteps2) examples
 
-### List
+### Examples list:
 
 - [Simple steps example](https://github.com/evpl/xteps2-examples/blob/main/src/test/java/com/plugatar/xteps2/examples/SimpleStepsTest.java)
 - [Step objects example](https://github.com/evpl/xteps2-examples/blob/main/src/test/java/com/plugatar/xteps2/examples/StepObjectsTest.java)
