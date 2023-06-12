@@ -1,1 +1,8 @@
-# xteps2-examples
+# Xteps2 examples
+
+### List
+
+- [Simple steps example](https://github.com/evpl/xteps2-examples/blob/main/xteps2-examples/src/test/java/com/plugatar/xteps2/examples/SimpleStepsTest.java)
+- [Step objects example](https://github.com/evpl/xteps2-examples/blob/main/xteps2-examples/src/test/java/com/plugatar/xteps2/examples/StepObjectsTest.java)
+- [Annotation steps example](https://github.com/evpl/xteps2-examples/blob/main/xteps2-examples/src/test/java/com/plugatar/xteps2/examples/AnnotationStepsTest.java)
+- [Step contexts example](https://github.com/evpl/xteps2-examples/blob/main/xteps2-examples/src/test/java/com/plugatar/xteps2/examples/StepContextsTest.java)
